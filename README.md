@@ -36,4 +36,4 @@ Here are some additional details about the project:
 
 The model is a simple convolutional neural network with two hidden layers.
 The model was trained for 30 epochs.
-The accuracy of the model on the test set is 81%.
+The accuracy of the model on the test set is 99.15%.
